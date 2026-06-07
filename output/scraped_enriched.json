@@ -1,0 +1,29 @@
+[
+  {
+    "url": "http://books.toscrape.com",
+    "text": "\n        \n        \n    \n    \n     \n         \n             \n                 Books to Scrape  We love being scraped! \n \n\n                \n             \n         \n     \n\n    \n    \n \n     \n        \n     \n         \n             Home \n         \n         All products \n     \n\n         \n\n             \n                \n                 \n                    \n                 \n                \n    \n    \n        \n         \n             \n                \n                     \n                         \n                            \n                                Books\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Travel\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Mystery\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Historical Fiction\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Sequential Art\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Classics\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Philosophy\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Romance\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Womens Fiction\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Fiction\n                            \n                         \n\n                         \n                        \n                \n                     \n                         \n                            \n                                Childrens",
+    "category": "Product Listing",
+    "summary": "The website \"Books to Scrape\" offers various book categories, including: Books, Travel, Mystery, Historical Fiction, Sequential Art, Classics, Philosophy, Romance, Women's Fiction, Fiction, and Children's.",
+    "entities": {
+      "names": [],
+      "emails": [],
+      "phone_numbers": [],
+      "prices": [],
+      "dates": [],
+      "locations": [],
+      "key_topics": [
+        "Books",
+        "Travel",
+        "Mystery",
+        "Historical Fiction",
+        "Sequential Art",
+        "Classics",
+        "Philosophy",
+        "Romance",
+        "Womens Fiction",
+        "Fiction",
+        "Childrens"
+      ]
+    }
+  }
+]

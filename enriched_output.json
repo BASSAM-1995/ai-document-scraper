@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Apple launched iPhone 16 with A18 chip for $999. Event was in California on September 9.",
+    "url": "test",
+    "category": "News Article",
+    "summary": "Apple launched the iPhone 16 with the A18 chip, priced at $999, at an event in California on September 9.",
+    "entities": {
+      "names": [],
+      "emails": [],
+      "phone_numbers": [],
+      "prices": [
+        "$999"
+      ],
+      "dates": [
+        "September 9"
+      ],
+      "locations": [
+        "California"
+      ],
+      "key_topics": [
+        "iPhone 16",
+        "A18 chip",
+        "Apple"
+      ]
+    }
+  }
+]
